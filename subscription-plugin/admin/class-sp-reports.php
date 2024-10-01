@@ -3,7 +3,6 @@
 if ( ! defined( 'ABSPATH' ) ) {
     exit; // Exit if accessed directly.
 }
-
 class SP_Reports {
 
     public static function init() {
