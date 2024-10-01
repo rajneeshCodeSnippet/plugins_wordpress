@@ -4,7 +4,6 @@ if ( ! defined( 'ABSPATH' ) ) {
     exit; // Exit if accessed directly.
 }
 
-
 class SP_Deactivator {
 
     public static function deactivate() {
