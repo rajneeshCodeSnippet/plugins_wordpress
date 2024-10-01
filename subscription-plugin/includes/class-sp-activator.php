@@ -36,8 +36,7 @@ class SP_Activator {
             FOREIGN KEY (plan_id) REFERENCES $subscription_plans_table (plan_id) ON DELETE CASCADE
         ) $charset_collate;";
         dbDelta($sql);
-
-        // Optionally, insert default subscription plans into `wp_subscription_plans` table upon activation
+// Optionally, insert default subscription plans into `wp_subscription_plans` table upon activation
     }
 }
 
