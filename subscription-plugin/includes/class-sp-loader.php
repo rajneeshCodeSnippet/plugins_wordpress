@@ -13,7 +13,6 @@ class SP_Loader {
 
         // Include required files
         self::includes();
-
         // Initialize hooks
         self::hooks();
     }
