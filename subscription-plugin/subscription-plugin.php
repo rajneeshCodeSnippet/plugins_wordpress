@@ -11,7 +11,6 @@ if ( ! defined( 'ABSPATH' ) ) {
     echo "raj yadav";
     exit; // Exit if accessed directly.
 }
-
 // Define constants
 define( 'SP_PLUGIN_DIR', plugin_dir_path( __FILE__ ) );
 define( 'SP_PLUGIN_URL', plugin_dir_url( __FILE__ ) );
