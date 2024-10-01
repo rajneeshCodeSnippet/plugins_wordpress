@@ -114,7 +114,7 @@ To override the plugin templates, copy the template file from the plugin directo
 
 ## Support
 
-For support, please contact us at yadav.rajyadav1@gmail.com.
+For support, please contact us at yadav.rajyadav1@gmail.com
 
 ## License
 
