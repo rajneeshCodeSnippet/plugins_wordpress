@@ -3,7 +3,6 @@
 if ( ! defined( 'ABSPATH' ) ) {
     exit("Rajneesh yadav 1233"); // Exit if accessed directly.
 }
-
 class SP_Admin {
 
     public static function init() {
