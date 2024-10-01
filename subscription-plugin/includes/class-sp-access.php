@@ -2,7 +2,6 @@
 if ( ! defined( 'ABSPATH' ) ) {
     exit; // Exit if accessed directly.
 }
-
 class SP_Access {
 
     public static function init() {
